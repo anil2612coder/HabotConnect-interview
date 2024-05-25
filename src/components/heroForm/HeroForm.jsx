@@ -16,7 +16,7 @@ const HeroForm = () => {
     <div className="relative w-full h-screen">
       <div className="absolute w-full h-3/5 ">
         <img
-          src="/background.png"
+          src="/dubai.jpg"
           alt="Background"
           className="w-full h-full object-fit"
         />
