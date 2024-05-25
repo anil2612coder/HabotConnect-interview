@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    @apply bg-blue-50 ;
+
+  
+}
+
+* {
+    scroll-behavior: smooth !important;
+  }
